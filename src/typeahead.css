@@ -1,0 +1,14 @@
+/* TypeAhead.css */
+
+/* Add specific styling for the typeahead container */
+
+.typeahead-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  /* Add specific styling for the Typeahead component as needed */
+  
