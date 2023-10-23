@@ -6,3 +6,4 @@ To run this application, these are the steps to follow -
 1. First clone the repository
 2. Once inside the repository in your local machine - run `npm install`
 3. Once all the dependencies have been installed, you can run - `npm start`, which starts run the application on http://localhost:3000 port
+
